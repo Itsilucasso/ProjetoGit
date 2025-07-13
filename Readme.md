@@ -1,0 +1,1 @@
+Olá! Este projeto é sobre o aprendizado da ultilização do Git.
